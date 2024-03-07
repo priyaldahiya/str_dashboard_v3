@@ -7,7 +7,8 @@ import plotly.express as px
 
 airbnb_path = 'airbnb_.csv'
 
-st.header('Short Term Rental Dashboard 3')
+st.header('Short Term Rental Dashboard')
+st.write('By Priyal Dahiya')
 
 col1, col2, col3 = st.columns(3)
 
